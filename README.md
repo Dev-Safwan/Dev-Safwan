@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Safwan Ahmed!
 
+![Profile views](https://komarev.com/ghpvc/?username=Dev-Safwan&color=aqua)
+
 ## 🚀 About Me
 
 I'm a passionate **frontend web developer** and **graphics designer**. I love creating visually appealing designs and functional websites. Currently, I'm a **student in class 7** at **Maheshpur Government Pilot Model Secondary School**.
