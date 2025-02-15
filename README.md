@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Safwan Ahmed!
 
-![Profile views](https://komarev.com/ghpvc/?username=Dev-Safwan&color=aqua)
+![Profile views](https://komarev.com/ghpvc/?username=Dev-Safwan&color=red)
 
 ## 🚀 About Me
 
