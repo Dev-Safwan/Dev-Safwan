@@ -98,7 +98,7 @@ Skills: HTML / CSS
   <br/>
 </a>
 
-![Safwan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=safwan126b&custom_title=Safwan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Safwan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-Safwan&custom_title=Safwan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
