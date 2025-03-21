@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=safwan126b&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=Dev-Safwan&color=red)
 
 Skills: HTML / CSS 
 
